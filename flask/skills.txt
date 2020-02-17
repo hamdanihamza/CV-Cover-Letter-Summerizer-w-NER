@@ -1,0 +1,76 @@
+Data Analytics
+Data Center
+Python
+Logistic Regression
+Data Visualization
+Deep Learning
+Neural Networks
+LSTM
+Windows
+ML
+GLM
+Mathematics
+Digital Signal Processing
+SQL
+Imaging Systems
+Algorithms
+Machine Learning
+Apache
+AI
+Devops
+Healthcare
+Statistical Programming
+Programming
+MySQL
+NLTK
+AWS RedShift
+Data Modeling
+R
+HTML
+WordPress
+OpenCV
+Tensorflow
+Software Development
+AJAX
+Statistics
+Tableau
+Network Infrastructures
+CNN
+Oracle
+Probability
+Stack
+Linear Regression
+UML
+PHP
+RNN
+Statistical
+SAS
+Penatho Server
+LAMP
+Evaluation
+Tableau
+PowerBI
+Recursive Neural Networks
+CSS
+Machine Learning
+Deep learning
+Javascript
+Matlab
+Text Representation Techniques
+Firewalls
+Data Collection
+LAMP Stack
+Telecommunications
+REST
+PDI
+Linux
+Java
+Database
+ScikitLearn
+Data Mining
+Big Data
+PL/SQL
+OpenCV
+Tensorflow
+Keras
+Natural Language Processing
