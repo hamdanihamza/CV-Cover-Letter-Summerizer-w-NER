@@ -1,4 +1,4 @@
-# CV-Cover-Letter-Summerizer-w-NER
+# Resume-Cover-Letter-Summerizer-w-NER
 
 An example of the use of Natural Language Processing to extract important informations from CVs and Cover Letters.
 
